@@ -24,8 +24,8 @@ a
  ```
 /*
 Program to implement a Looping Statement using Java
-Developed by: SIDDHARTH S
-RegisterNumber: 2122243040317
+Developed by: Levin Paul David 
+RegisterNumber: 212224040170
 */
 ```
 
