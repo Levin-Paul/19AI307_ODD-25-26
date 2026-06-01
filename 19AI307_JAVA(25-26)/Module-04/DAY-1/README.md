@@ -19,8 +19,8 @@ To handle a NullPointerException when performing operations on a null string in 
  ```
 /*
 Program to implement a InnerClass using Java
-Developed by: SIDDHARTH S
-RegisterNumber: 212224040317
+Developed by: LEvin Paul David
+RegisterNumber: 212224040170
 */
 ```
 
