@@ -31,8 +31,8 @@ To demonstrate the use of a synchronized block for safely swapping two integer v
  ```
 /*
 Program to implement a InnerClass using Java
-Developed by: SIDDHARTH S
-RegisterNumber: 212224040317
+Developed by: Levin Paul David
+RegisterNumber: 212224040170
 */
 ```
 
