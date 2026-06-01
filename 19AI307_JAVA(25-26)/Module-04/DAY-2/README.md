@@ -38,8 +38,8 @@ To simulate a radar control system where only one tower instance handles multipl
  ```
 /*
 Program to implement a InnerClass using Java
-Developed by: SIDDHARTH
-RegisterNumber: 212224040317
+Developed by: Levin Paul David
+RegisterNumber: 212224040170
 */
 ```
 
