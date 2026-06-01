@@ -19,8 +19,8 @@ To demonstrate the Abstract Factory Pattern by creating families of related obje
  ```
 /*
 Program to implement a InnerClass using Java
-Developed by: SIDDHARTH S
-RegisterNumber: 212224040317
+Developed by: Levin Paul David
+RegisterNumber: 212224040170
 */
 ```
 
