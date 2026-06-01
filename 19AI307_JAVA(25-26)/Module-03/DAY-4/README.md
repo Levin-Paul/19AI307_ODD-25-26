@@ -30,8 +30,8 @@ To implement weather prediction using interfaces with two bots — SunBot and Ra
  ```
 /*
 Program to implement variables and Operators using Java
-Developed by: SIDDHARTH S
-RegisterNumber: 212224040317
+Developed by: LEvin PAul David
+RegisterNumber: 212224040170
 */
 ```
 
